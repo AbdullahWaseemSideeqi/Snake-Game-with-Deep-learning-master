@@ -3,8 +3,10 @@
 
 #### Work Done by
 Abdullah Waseem , Usman Ali , Muammad Gulraiz, Muhammad Yasoob
+
 Computer Science Department, National University of Computer and Emerging Sciences
 Lahore, Pakistan
+
 l174254@lhr.nu.edu.pk, l174369@lhr.nu.edu.pk, l174055@lhr.nu.edu.pk, l174380@lhr.nu.edu.pk
 
 # Comparison of Heuristic Function and Neural Network Using Snake
